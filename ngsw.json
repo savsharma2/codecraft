@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "https://github.com/savsharma2/codecraft/index.html",
+  "index": "https://savsharma2.github.io/codecraft/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://github.com/savsharma2/codecraft/favicon.ico",
-        "https://github.com/savsharma2/codecraft/index.html",
-        "https://github.com/savsharma2/codecraft/inline.4996d730acb0398e2bf2.bundle.js",
-        "https://github.com/savsharma2/codecraft/main.c24580d8ca31c3756720.bundle.js",
-        "https://github.com/savsharma2/codecraft/polyfills.f20484b2fa4642e0dca8.bundle.js",
-        "https://github.com/savsharma2/codecraft/styles.9c0ad738f18adc3d19ed.bundle.css"
+        "https://savsharma2.github.io/codecraft/favicon.ico",
+        "https://savsharma2.github.io/codecraft/index.html",
+        "https://savsharma2.github.io/codecraft/inline.4996d730acb0398e2bf2.bundle.js",
+        "https://savsharma2.github.io/codecraft/main.c24580d8ca31c3756720.bundle.js",
+        "https://savsharma2.github.io/codecraft/polyfills.f20484b2fa4642e0dca8.bundle.js",
+        "https://savsharma2.github.io/codecraft/styles.9c0ad738f18adc3d19ed.bundle.css"
       ],
       "patterns": []
     },
@@ -26,11 +26,11 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://github.com/savsharma2/codecraft/inline.4996d730acb0398e2bf2.bundle.js": "998ef3792217ced1af75ab7ae8d92d9ba6a1e51f",
-    "https://github.com/savsharma2/codecraft/main.c24580d8ca31c3756720.bundle.js": "fe0e04f6aab295d5426e57e865c8fa336dc190c7",
-    "https://github.com/savsharma2/codecraft/polyfills.f20484b2fa4642e0dca8.bundle.js": "80cf58f02522e2482e53020475e84971145f80c0",
-    "https://github.com/savsharma2/codecraft/styles.9c0ad738f18adc3d19ed.bundle.css": "e392ebe39e63c70b434f71bbe87278aa9aa641c0",
-    "https://github.com/savsharma2/codecraft/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://github.com/savsharma2/codecraft/index.html": "2e1e082d83d89cd5090eae2cf114136b57a0d540"
+    "https://savsharma2.github.io/codecraft/inline.4996d730acb0398e2bf2.bundle.js": "998ef3792217ced1af75ab7ae8d92d9ba6a1e51f",
+    "https://savsharma2.github.io/codecraft/main.c24580d8ca31c3756720.bundle.js": "fe0e04f6aab295d5426e57e865c8fa336dc190c7",
+    "https://savsharma2.github.io/codecraft/polyfills.f20484b2fa4642e0dca8.bundle.js": "80cf58f02522e2482e53020475e84971145f80c0",
+    "https://savsharma2.github.io/codecraft/styles.9c0ad738f18adc3d19ed.bundle.css": "e392ebe39e63c70b434f71bbe87278aa9aa641c0",
+    "https://savsharma2.github.io/codecraft/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://savsharma2.github.io/codecraft/index.html": "28ab4a46bcf151ea41b3bfa771f739a1df69b9e1"
   }
 }
